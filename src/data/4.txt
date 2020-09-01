@@ -1,0 +1,3 @@
+message:Time for your first transformation! Press the E key to transform into Sticky Man and press the R key to return to normal. Use this transformation to stick to walls and access new areas! Hint: Try pressing space when stuck to a wall.
+no:spiky,switchy
+world:02

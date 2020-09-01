@@ -1,0 +1,6 @@
+background:ghettoville1.jpg
+stone:108,102,152
+poison:160,230,30
+terminal:235,235,0
+collectible:235,235,0
+music:jungle.wav

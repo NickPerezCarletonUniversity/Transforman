@@ -1,0 +1,18 @@
+unlocked:1
+level 1:_,_,_
+level 2:_,_
+level 3:_,_,_
+level 4:_,_
+level 5:_,_
+level 6:_,_,_,_,_
+level 7:_,_,_,_
+level 8:_
+level 9:_,_,_,_
+level 10:_,_,_,_
+level 11:_,_,_,_
+level 12:_,_,_,_,_
+level 13:_,_,_,_
+level 14:_,_,_,_
+level 15:_,_,_
+level 16:_,_,_,_
+level 17:_,_,_,_,_,_

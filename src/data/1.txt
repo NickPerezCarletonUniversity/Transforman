@@ -1,0 +1,4 @@
+message:Welcome to TransforMan! Use the arrow keys to move left and right. The terminal (yellow box) will take you to the next level!
+no:sticky,spiky,flippy
+world:01
+

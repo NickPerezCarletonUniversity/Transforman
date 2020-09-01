@@ -1,0 +1,6 @@
+background:desert.gif
+stone:35,35,0
+poison:235,0,0
+terminal:235,235,0
+collectible:235,235,0
+music:Cinder.wav

@@ -1,0 +1,3 @@
+message:Use the spacebar to jump over these obstacles!
+no:sticky,spiky,switchy
+world:01

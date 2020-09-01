@@ -1,0 +1,7 @@
+background:thepark1.jpg
+stone:107,158,54
+poison:200,41,136
+wood:200,170,100
+terminal:235,235,0
+collectible:235,235,0
+music:Hydroplanes.wav

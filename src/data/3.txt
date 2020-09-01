@@ -1,0 +1,3 @@
+message:Be careful! These poison blocks are deadly, even the slightest contact will send you back to the start!
+no:sticky,spiky,switchy
+world:01

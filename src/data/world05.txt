@@ -1,0 +1,7 @@
+background:highwayz1.jpg
+stone:80,80,80
+poison:104,189,80
+wood:150,100,50
+terminal:235,235,0
+collectible:235,235,0
+music:Eternity.wav
